@@ -1,0 +1,4 @@
+using DrWatson
+@quickactivate "Data-driven resolvent"
+
+include(srcdir("SpectralDiff.jl"))
